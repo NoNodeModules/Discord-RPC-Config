@@ -55,3 +55,7 @@
 - `Что если пишет что тип нет пакетного файла node` - Скачайте и установите NodeJS lts https://nodejs.org/en/download/
 - `Какие модули используеться` - discord-rpc, minecraft-server-util
 - `Какой язык` - JavaScript под NodeJS
+# Связи со мной
+- Twitter - @Prostocky
+- Discord - Простоки#4985 `<@679770342784237597>` (Отправьте запрос в друзья, когда я вас приму вы можете мне написать)
+- Discord Сервер - https://discord.gg/invate/fjPEcwDXgN
