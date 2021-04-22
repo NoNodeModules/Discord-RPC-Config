@@ -1,0 +1,1 @@
+node index(no-buttons).js
