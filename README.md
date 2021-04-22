@@ -4,7 +4,7 @@
 - Чтобы скачать файлы репозитории `Code` > `Download ZIP`
 # Необходимые программы
 - NodeJS LTS - https://nodejs.org/en/download/
-- И сам Discord
+- Discord(Загруженный на ПК, не браузерный) - https://discord.com/
 # Инструкция
 - Создвние приложение
 - 1 > Заходим по ссылке https://discord.com/developers/applications
