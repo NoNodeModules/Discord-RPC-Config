@@ -1,13 +1,13 @@
 {
-    "idApplication": "1",
-    "MainText": "дай пельмешек",
-    "Descreption": "ReolutionWorlds",
-    "Image": ".",
-    "ImageDescreption": "Описание",
-    "Image2": ".",
-    "ImageDescreption2": "Описание",
-    "ButtonNameOne": "Сайт",
-    "ButtonUrlOne": "https://mc.reworlds.su/",
-    "ButtonNameTwo": "Дискорд",
-    "ButtonUrlTwo": "https://discord.gg/vuFwdJ8"
+    "idApplication": "ID Приложение в discord.com/developers/applications",
+    "MainText": "Верхний текст",
+    "Descreption": "Нижный текст",
+    "Image": "Имя основной картинки 'имя.png' но без '.png', если не хотите картинку то ставьте '.'",
+    "ImageDescreption": "Описание основной картинки",
+    "Image2": "Имя мини-картинки около основной, если не хотите мини-картинку то ставьте '.'",
+    "ImageDescreption2": "Описание мини-картники",
+    "ButtonNameOne": "Имя первой кнокпи",
+    "ButtonUrlOne": "Ссылка первой кноки",
+    "ButtonNameTwo": "Имя второй кнопки",
+    "ButtonUrlTwo": "Ссылка второй кнопки"
 }
